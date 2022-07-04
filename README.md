@@ -1,8 +1,6 @@
 # React MUI
 
-Github Repository with my working files created when I was learning Material Ui design.
-
-### react-mui-demo
-My first react project that I was working on when I took course on Material Ui from Codevolution.
-
-[React Material UI Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
+Learning designing React Applications with css framework Material UI, <br/> by taking two courses with Codevolution
+[Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
+and 
+[Anthony Sistilli](https://www.youtube.com/playlist?list=PLQg6GaokU5CyVrmVsYa9R3g1z2Tsmfpm-).
